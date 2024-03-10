@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Murilo_O42_A9.png</filename>
+	<path>/my-project-name/Murilo_O42_A9.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>315</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Murilo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>73</ymin>
+			<xmax>219</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

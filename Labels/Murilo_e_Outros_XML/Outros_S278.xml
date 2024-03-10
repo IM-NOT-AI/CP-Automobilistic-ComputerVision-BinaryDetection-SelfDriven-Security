@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Outros_S278.png</filename>
+	<path>/my-project-name/Outros_S278.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Outros</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>23</ymin>
+			<xmax>243</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
