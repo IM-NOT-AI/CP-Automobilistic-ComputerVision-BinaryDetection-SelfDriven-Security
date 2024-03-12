@@ -7,3 +7,5 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 ![fusca_foto_ic](https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/d4245819-e8e5-4710-ba9d-4fa8513d49b5)
 
+
+![output](https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e)
