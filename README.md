@@ -35,7 +35,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
   <!-- Aqui começa a seção aninhada que equivale ao uso de <h3> -->
   <details>
-    <summary>01 - <h3>ENTENDIMENTO DO PROBLEMA</h3></summary>
+    <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
     
     Este é o conteúdo principal que todos podem ver ao expandir o "01 - ENTENDIMENTO DO PROBLEMA".
 
