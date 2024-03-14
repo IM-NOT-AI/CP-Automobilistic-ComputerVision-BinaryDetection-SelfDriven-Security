@@ -37,3 +37,31 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 
 
+<details>
+  <summary><h2>🚗 Demonstração</h2></summary>
+  
+  <p align="center">
+    <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e" alt="output" width="500">
+  </p>
+  
+  <!-- Here starts the nested details -->
+  <details>
+    <summary><h3>Detalhes do Projeto</h3></summary>
+    <p>
+      Este projeto demonstra um sistema inovador de detecção e reconhecimento automático utilizando visão computacional e aprendizado de máquina para identificar especificamente "Murilo" entre outros indivíduos. Utilizando uma câmera acoplada a um veículo (neste caso, um modelo simbólico como um "Fusca"), o sistema é capaz de discernir entre duas classes principais: "Murilo" e "Outros".
+    </p>
+  </details>
+  <!-- Nested details end -->
+  
+  <p>
+    A lógica do sistema é relativamente direta, mas altamente eficaz: ao detectar a presença de um indivíduo, ele classifica quem está à frente. Se "Murilo" for identificado dentro de um raio de 3 metros, o sistema ativa um mecanismo de controle mecânico que desengata a embreagem do veículo. Este processo é projetado para que, ao reconhecer "Murilo" a uma distância de até 3 metros, o carro automaticamente reduza sua velocidade ou pare, garantindo uma interação segura e controlada.
+  </p>
+  
+</details>
+
+<details>
+  <summary><h2>📘 Utilização</h2></summary>
+  <p align="center">
+    <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944" alt="pipeline-root" />
+  </p>
+</details>
