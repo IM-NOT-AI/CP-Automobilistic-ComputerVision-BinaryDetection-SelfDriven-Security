@@ -28,38 +28,38 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 
 <details>
-  <summary><h2>📘 Utilização</h2></summary>
+  <summary>📘 Utilização</summary>
   <p align="center">
     <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944" alt="pipeline-root" />
   </p>
+
+  <!-- Aqui começa a seção aninhada que equivale ao uso de <h3> -->
+  <details>
+    <summary>01 - ENTENDIMENTO DO PROBLEMA</summary>
+    
+    Este é o conteúdo principal que todos podem ver ao expandir o "01 - ENTENDIMENTO DO PROBLEMA".
+
+  <details>
+      <summary>📄 Subseção 1</summary>
+      Aqui está mais informação específica, que é revelada apenas se você expandir esta subseção.
+    </details>
+    
+  <details>
+      <summary>📄 Subseção 2</summary>
+      Mais detalhes que estão escondidos até que esta parte seja expandida.
+    </details>
+
+  <details>
+      <summary>📄 Subseção 3</summary>
+      Mais detalhes que estão escondidos até que esta parte seja expandida.
+    </details>
+
+  <details>
+      <summary>📄 Subseção 4</summary>
+      Mais detalhes que estão escondidos até que esta parte seja expandida.
+    </details>
+    
+  </details>
+  <!-- Aqui termina a seção aninhada -->
 </details>
 
-
-
-
-<details>
-  <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
-  
-  Este é o conteúdo principal que todos podem ver ao expandir o "Capítulo Principal".
-
-  <details>
-    <summary>📄 Subseção 1</summary>
-    Aqui está mais informação específica, que é revelada apenas se você expandir esta subseção.
-  </details>
-  
-  <details>
-    <summary>📄 Subseção 2</summary>
-    Mais detalhes que estão escondidos até que esta parte seja expandida.
-  </details>
-
-  <details>
-    <summary>📄 Subseção 2</summary>
-    Mais detalhes que estão escondidos até que esta parte seja expandida.
-  </details>
-
-  <details>
-    <summary>📄 Subseção 2</summary>
-    Mais detalhes que estão escondidos até que esta parte seja expandida.
-  </details>
-  
-</details>
