@@ -4,6 +4,8 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 ![ic_title_readme](https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/90c7e4dc-8429-4f50-b234-9c5725ffa1ba)
 
+<img src="[https://i.imgur.com/dBaSKWF.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffusca&psig=AOvVaw02kP5cKCcgG2BYJnQzFdMu&ust=1710525436134000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjDnfqp9IQDFQAAAAAdAAAAABAg)" height="30" width="100%">
+
 
 <p align="center">
   <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/d4245819-e8e5-4710-ba9d-4fa8513d49b5" alt="fusca_foto_ic" width="500">
