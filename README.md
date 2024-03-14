@@ -28,10 +28,10 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 
 <details>
-  <summary>📘 Utilização (Usage)</summary>
-  <div style="text-align: center;">
-    <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/blob/main/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944.png?raw=true" alt="Pipeline Root" />
-  </div>
+  <summary>📘 Utilização</summary>
+
+![pipeline-root](https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944)
+
 </details>
 
 
