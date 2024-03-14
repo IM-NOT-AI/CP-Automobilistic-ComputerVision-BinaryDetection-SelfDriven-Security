@@ -37,7 +37,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
     <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
     
   <details>
-      <summary>📄 Definição do Objetivo>
+      <summary>📄 Definição do Objetivo</summary>
       O projeto, AssistenteSeguro FreioAntiColisão, é projetado para aumentar a segurança veicular desenvolvendo um sistema avançado de detecção capaz de identificar potenciais ameaças de colisão, focando especificamente em reconhecer "Murilo" e "Outros". Esta classificação binária visa acionar medidas preventivas apropriadas para evitar colisões.
     </details>
 
