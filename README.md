@@ -8,20 +8,19 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 ![fusca_foto_ic](https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/d4245819-e8e5-4710-ba9d-4fa8513d49b5)
 
 
-<p align="center">
-  <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e" alt="output" width="1100">
-</p>
-
-
 <details>
-  <summary><h2>🚗 CP-Automobilistic: Computer Vision for Automotive Security</h2></summary>
-  <p>
-    This project leverages advanced Computer Vision techniques to enhance automotive security and functionality. It focuses on binary detection systems that contribute to the development of self-driven vehicle capabilities, ensuring safer and more efficient road navigation. Below is a glimpse of the output our models can achieve, demonstrating the precision and reliability of our detection systems.
-  </p>
+  <summary><h2>🚗 Demonstração>
+    
   <p align="center">
     <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e" alt="output" width="1100">
   </p>
+
   <p>
-    Dive into our repository to explore the technologies, algorithms, and methodologies we've implemented to push the boundaries of automotive security and automation. From detailed code comments to comprehensive documentation, we provide all the necessary resources for you to understand the inner workings of our project and contribute to its future advancements.
+  Este projeto demonstra um sistema inovador de detecção e reconhecimento automático utilizando visão computacional e aprendizado de máquina para identificar especificamente "Murilo" entre outros indivíduos. Utilizando uma câmera acoplada a um veículo (neste caso, um modelo simbólico como um "Fusca"), o sistema é capaz de discernir entre duas classes principais: "Murilo" e "Outros".
+
+  A lógica do sistema é relativamente direta, mas altamente eficaz: ao detectar a presença de um indivíduo, ele classifica quem está à frente. Se "Murilo" for identificado dentro de um raio de 3 metros, o sistema ativa um mecanismo de controle mecânico que desengata a embreagem do veículo. Este processo é projetado para que, ao reconhecer "Murilo" a uma distância de até 3 metros, o carro automaticamente reduza sua velocidade ou pare, garantindo uma interação segura e controlada.
+
+  O mecanismo por trás desse processo envolve o uso de técnicas avançadas de visão computacional com OpenCV para o processamento de imagens em tempo real e TensorFlow ou TFLite para o modelo de aprendizado de máquina que faz a distinção entre as classes. O controle do veículo é gerenciado por um sistema embarcado, como o Raspberry Pi, que se comunica com os componentes mecânicos para operar a embreagem com base na entrada do modelo de detecção.
   </p>
+  
 </details>
