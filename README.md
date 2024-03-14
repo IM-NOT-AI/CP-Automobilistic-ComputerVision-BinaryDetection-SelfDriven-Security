@@ -38,7 +38,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 
 <details>
-  <summary>📘 Capítulo Principal</summary>
+  <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
   
   Este é o conteúdo principal que todos podem ver ao expandir o "Capítulo Principal".
 
@@ -47,6 +47,16 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
     Aqui está mais informação específica, que é revelada apenas se você expandir esta subseção.
   </details>
   
+  <details>
+    <summary>📄 Subseção 2</summary>
+    Mais detalhes que estão escondidos até que esta parte seja expandida.
+  </details>
+
+  <details>
+    <summary>📄 Subseção 2</summary>
+    Mais detalhes que estão escondidos até que esta parte seja expandida.
+  </details>
+
   <details>
     <summary>📄 Subseção 2</summary>
     Mais detalhes que estão escondidos até que esta parte seja expandida.
