@@ -36,7 +36,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
   <details>
     <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
-    O primeiro passo em direção ao desenvolvimento do projeto AssistenteSeguro FreioAntiColisão é o entendimento profundo do problema a ser resolvido. Este processo inicial é vital para a formulação de objetivos claros e a identificação das necessidades de dados, tecnologia e stakeholders envolvidos. A seguir, detalhamos os componentes essenciais desta fase:
+    O primeiro passo em direção ao desenvolvimento do projeto AssistenteSeguro FreioAntiColisão é o entendimento profundo do problema a ser resolvido. Este processo inicial é vital para a formulação de objetivos claros e a identificação das necessidades de dados, tecnologia e stakeholders envolvidos. A seguir, detalhamos os componentes essenciais desta fase:          
     <details>
       <summary>📄 Definição do Objetivo</summary>
       O projeto, AssistenteSeguro FreioAntiColisão, é projetado para aumentar a segurança veicular desenvolvendo um sistema avançado de detecção capaz de identificar potenciais ameaças de colisão, focando especificamente em reconhecer "Murilo" e "Outros". Esta classificação binária visa acionar medidas preventivas apropriadas para evitar colisões.
@@ -71,7 +71,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <!-- Início da seção "02 - ENTENDIMENTO DO PROBLEMA" -->
   <details>
     <summary><h3>02 - MINERAÇÃO DE DADOS</h3></summary>
-            O processo de mineração de dados no projeto AssistenteSeguro FreioAntiColisão é uma etapa crucial para compreender e extrair informações valiosas a partir dos dados coletados. Ao explorar profundamente os dados disponíveis, buscamos identificar padrões, relações e características que serão fundamentais para o treinamento eficaz do nosso sistema de detecção. A seguir, detalhamos os componentes essenciais desta fase:
+    O processo de mineração de dados no projeto AssistenteSeguro FreioAntiColisão é uma etapa crucial para compreender e extrair informações valiosas a partir dos dados coletados. Ao explorar profundamente os dados disponíveis, buscamos identificar padrões, relações e características que serão fundamentais para o treinamento eficaz do nosso sistema de detecção. A seguir, detalhamos os componentes essenciais desta fase:
     <details>
       <summary>📄 Padrões de Reconhecimento de Objetos</summary>
       Utilizando técnicas de aprendizado de máquina, o sistema aprende padrões associados à presença de "Murilo" versus outras entidades no campo visual.
