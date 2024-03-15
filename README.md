@@ -37,7 +37,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <details>
     <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
     O primeiro passo em direção ao desenvolvimento do projeto AssistenteSeguro FreioAntiColisão é o entendimento profundo do problema a ser resolvido. Este processo inicial é vital para a formulação de objetivos claros e a identificação das necessidades de dados, tecnologia e stakeholders envolvidos. A seguir, detalhamos os componentes essenciais desta fase: 
-    ===
+    ---
     <details>
       <summary>📄 Definição do Objetivo</summary>
       O projeto, AssistenteSeguro FreioAntiColisão, é projetado para aumentar a segurança veicular desenvolvendo um sistema avançado de detecção capaz de identificar potenciais ameaças de colisão, focando especificamente em reconhecer "Murilo" e "Outros". Esta classificação binária visa acionar medidas preventivas apropriadas para evitar colisões.
