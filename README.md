@@ -130,5 +130,38 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
     <br>
     <details>
       <summary>📄 Especificação de Requisitos</summary>
-      As especificações incluem alta precisão na detecção de objetos sob várias condições ambientais
-
+      As especificações incluem alta precisão na detecção de objetos sob várias condições ambientais, latência mínima para processamento em tempo real e compatibilidade com sistemas veiculares existentes. O modelo também deve ser leve para implantação em dispositivos de borda, como o Raspberry Pi.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Avaliação de Tecnologia</summary>
+      Ao avaliar as tecnologias disponíveis, o TensorFlow Lite se destaca por sua capacidade de executar modelos de deep learning em dispositivos de borda de forma eficiente. Ele oferece a eficiência computacional necessária e suporta os requisitos do projeto para processamento em tempo real.
+    </details>
+    <br>
+    A fase de entendimento do problema estabelece, assim, uma sólida fundação para o projeto AssistenteSeguro FreioAntiColisão, direcionando as etapas subsequentes com um planejamento estratégico e metas claras, visando a maximização da segurança veicular através da inovação em detecção baseada em IA.
+  </details> <!-- Fechamento da seção "01 - ENTENDIMENTO DO PROBLEMA" -->
+  <br>
+  <!-- Início da seção "02 - MINERAÇÃO DE DADOS" -->
+  <details>
+    <summary><h3>02 - MINERAÇÃO DE DADOS</h3></summary>
+    O processo de mineração de dados no projeto AssistenteSeguro FreioAntiColisão é uma etapa crucial para compreender e extrair informações valiosas a partir dos dados coletados. Ao explorar profundamente os dados disponíveis, buscamos identificar padrões, relações e características que serão fundamentais para o treinamento eficaz do nosso sistema de detecção. A seguir, detalhamos os componentes essenciais desta fase:
+    <br><br>
+    <details>
+      <summary>📄 Padrões de Reconhecimento de Objetos</summary>
+      Utilizando técnicas de aprendizado de máquina, o sistema aprende padrões associados à presença de "Murilo" versus outras entidades no campo visual.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Agrupamento de Imagens</summary>
+      Para aumentar a eficiência do modelo, as imagens são agrupadas com base na semelhança. Esta abordagem ajuda no manuseio de grandes quantidades de dados ao agrupar imagens similares, melhorando assim o processo de aprendizagem ao focar em características distintas dentro de cada grupo.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Detecção de Relacionamento Visual</summary>
+      O sistema é projetado para entender e interpretar relacionamentos entre diferentes objetos dentro de uma imagem. Por exemplo, distinguir entre "Murilo" e "Outros" em vários contextos e configurações espaciais, aumentando a aplicabilidade do modelo em cenários do mundo real.
+    </details>
+    <br>
+      A mineração de dados, portanto, é uma fase de preparação indispensável que equipa o projeto AssistenteSeguro FreioAntiColisão com o conhecimento e a capacidade de reconhecer e interpretar eficientemente as nuances visuais. Por meio desta etapa, estabelecemos uma base sólida para o treinamento do nosso modelo, garantindo que ele esteja bem-preparado para lidar com os desafios de detecção em cenários reais, reforçando assim a segurança veicular por meio da inovação tecnológica.
+    <!-- Insira o conteúdo da seção "02 - ENTENDIMENTO DO PROBLEMA" aqui -->
+  </details>
+</details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
