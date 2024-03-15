@@ -160,6 +160,44 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <br>
   A anotação de dados estabelece a base para o modelo aprender com precisão a partir dos dados visuais. Ela transforma imagens brutas em um formato estruturado que o modelo de aprendizado de máquina pode entender e aprender, garantindo que o modelo seja bem treinado para identificar "Murilo" e "Outros" com precisão na fase de implantação.
 </details>
+ <br>
+<!-- Início da seção "05 - TREINAMENTO DO MODELO" -->
+<details>
+  <summary><h3>05 - TREINAMENTO DO MODELO</h3></summary>
+  O treinamento do modelo é um marco decisivo no desenvolvimento do projeto AssistenteSeguro FreioAntiColisão, onde as preparações meticulosas e os insights coletados nas fases anteriores são postos em prática. Este estágio transforma dados brutos e teorias em uma ferramenta pronta para salvar vidas, através da precisão e eficiência na detecção de possíveis colisões. Detalhamos abaixo os processos essenciais que compõem esta fase crítica:
+  <br><br>
+  <details>
+    <summary>📄 Divisão de Dados</summary>
+    O processo inicia com a organização dos dados em conjuntos específicos para treino, validação e teste, assegurando uma distribuição apropriada que facilita um aprendizado eficaz e uma avaliação precisa do modelo.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Seleção do Modelo</summary>
+    Utiliza-se a facilidade de escolher entre modelos pré-treinados disponíveis no TensorFlow Object Detection Model Zoo, permitindo o aproveitamento de arquiteturas comprovadas e agilizando o início do treinamento.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Configuração de Parâmetros de Treinamento</summary>
+    Configurações essenciais como o número de passos de treinamento (num_steps) e o tamanho do lote (batch_size) são definidas, possibilitando a customização do processo de treinamento para atender às necessidades específicas do projeto.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Uso de TensorBoard para Monitoramento</summary>
+    A integração com o TensorBoard permite o monitoramento do progresso do treinamento em tempo real, fornecendo insights valiosos sobre o desempenho do modelo, a evolução da perda e outras métricas relevantes.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Avaliação de Performance e mAP</summary>
+    Ao final do treinamento, o modelo é avaliado utilizando imagens de teste para inferência, seguido pelo cálculo do mAP (mean Average Precision), oferecendo uma métrica quantitativa da precisão do modelo.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Exportação para TensorFlow Lite</summary>
+    O modelo treinado é então convertido para o formato TensorFlow Lite, otimizando-o para implantação eficiente em dispositivos de borda, preparando o caminho para sua utilização em aplicações reais e cenários de detecção de objetos.
+  </details>
+  <br>
+  Ao final do treinamento do modelo, solidificamos o coração tecnológico do AssistenteSeguro FreioAntiColisão, capacitando-o a realizar sua missão crítica de identificar ameaças de colisão e ativar medidas preventivas. Este passo conclui a transição de dados e teorias em uma aplicação prática, que promete transformar o panorama da segurança veicular através do poder da detecção baseada em IA.
+</details>
 
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
