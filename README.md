@@ -137,5 +137,29 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <br>
   A fase de pré-processamento é meticulosamente projetada para otimizar o conjunto de dados para a fase subsequente de treinamento, garantindo que o modelo seja exposto a dados de alta qualidade e variados que encapsulem a complexidade dos cenários do mundo real com os quais se deparará.
 </details>
+  <br>
+<!-- Início da seção "04 - ANOTAÇÃO DE DADOS" -->
+<details>
+  <summary><h3>04 - ANOTAÇÃO DE DADOS</h3></summary>
+  A anotação de dados é um processo crucial no projeto AssistenteSeguro FreioAntiColisão, assegurando que o modelo compreenda precisamente o contexto e conteúdo de cada imagem. Esta etapa envolve várias tarefas meticulosas:
+  <br><br>
+  <details>
+    <summary>📄 Anotação de Texto</summary>
+    Isso envolve adicionar texto descritivo às imagens, identificando e rotulando os objetos de interesse dentro delas. No contexto deste projeto, anotações de texto podem especificar a presença de "Murilo" ou "Outros" na imagem, fornecendo um rótulo claro para o modelo aprender.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Caixas Delimitadoras</summary>
+    Caixas retangulares são desenhadas ao redor de cada instância de "Murilo" e "Outros" nas imagens. Essas caixas delimitadoras são cruciais para ensinar ao modelo onde o objeto está localizado na imagem e qual forma ele assume, focando a atenção do modelo em áreas específicas dentro dos dados visuais.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Classificação</summary>
+    Cada imagem ou objeto dentro de uma imagem é classificado em categorias pré-definidas. Para este projeto, as classificações primárias são "Murilo" e "Outros". Esta classificação binária simples é fundamental para o modelo entender quais objetos são de interesse primário.
+  </details>
+  <br>
+  A anotação de dados estabelece a base para o modelo aprender com precisão a partir dos dados visuais. Ela transforma imagens brutas em um formato estruturado que o modelo de aprendizado de máquina pode entender e aprender, garantindo que o modelo seja bem treinado para identificar "Murilo" e "Outros" com precisão na fase de implantação.
+</details>
+
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
