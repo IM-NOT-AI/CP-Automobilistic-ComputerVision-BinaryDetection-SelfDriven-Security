@@ -198,6 +198,15 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <br>
   Ao final do treinamento do modelo, solidificamos o coração tecnológico do AssistenteSeguro FreioAntiColisão, capacitando-o a realizar sua missão crítica de identificar ameaças de colisão e ativar medidas preventivas. Este passo conclui a transição de dados e teorias em uma aplicação prática, que promete transformar o panorama da segurança veicular através do poder da detecção baseada em IA.
 </details>
-
+ <br>
+<!-- Início da seção "06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)" -->
+<details>
+  <summary><h3>06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)</h3></summary>
+  <br><br>
+  <br>
+<!-- Início da seção "07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)" -->
+<details>
+  <summary><h3>07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)</h3></summary>
+  <br><br>
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
