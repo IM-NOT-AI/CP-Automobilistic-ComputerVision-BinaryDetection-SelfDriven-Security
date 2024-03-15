@@ -90,3 +90,45 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   </details>
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
+-----------------------------
+
+
+<details>
+  <summary><h2>📘 UTILIZAÇÃO</h2></summary>
+  <p align="center">
+    <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944" alt="pipeline-root" width="500" />
+  </p>
+  <br>
+  <details>
+    <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
+    O primeiro passo em direção ao desenvolvimento do projeto AssistenteSeguro FreioAntiColisão é o entendimento profundo do problema a ser resolvido. Este processo inicial é vital para a formulação de objetivos claros e a identificação das necessidades de dados, tecnologia e stakeholders envolvidos. A seguir, detalhamos os componentes essenciais desta fase: 
+    <br><br>
+    <details>
+      <summary>📄 Definição do Objetivo</summary>
+      O projeto, AssistenteSeguro FreioAntiColisão, é projetado para aumentar a segurança veicular desenvolvendo um sistema avançado de detecção capaz de identificar potenciais ameaças de colisão, focando especificamente em reconhecer "Murilo" e "Outros". Esta classificação binária visa acionar medidas preventivas apropriadas para evitar colisões.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Relevância dos Dados</summary>
+      A iniciativa depende de conjuntos de dados sintéticos e do mundo real que respeitam as leis de privacidade, incluindo o Regulamento Geral sobre a Proteção de Dados (GDPR), garantindo a relevância e a conformidade legal dos dados para o treinamento de modelos robustos de aprendizado de máquina.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Identificação do Caso de Uso</summary>
+      O caso de uso primário gira em torno da integração deste sistema de detecção em mecanismos de segurança veicular, fornecendo alertas em tempo real e automatizando sistemas de frenagem para prevenir colisões.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Análise de ROI</summary>
+      A implementação desta tecnologia poderia reduzir significativamente o risco de acidentes, diminuindo os custos de seguro e potencialmente salvando vidas. O retorno sobre o investimento se estende além das economias financeiras, englobando benefícios sociais através do aumento da segurança nas estradas.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Engajamento dos Stakeholders</summary>
+      Os stakeholders-chave incluem fabricantes de veículos, companhias de seguro, órgãos regulatórios e usuários finais. Suas contribuições são cruciais para refinar os objetivos do projeto e garantir que a solução atenda às diversas necessidades e esteja em conformidade com os padrões da indústria.
+    </details>
+    <br>
+    <details>
+      <summary>📄 Especificação de Requisitos</summary>
+      As especificações incluem alta precisão na detecção de objetos sob várias condições ambientais
+
