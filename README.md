@@ -84,9 +84,8 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
       <summary>📄 Detecção de Relacionamento Visual</summary>
       O sistema é projetado para entender e interpretar relacionamentos entre diferentes objetos dentro de uma imagem. Por exemplo, distinguir entre "Murilo" e "Outros" em vários contextos e configurações espaciais, aumentando a aplicabilidade do modelo em cenários do mundo real.
     </details>
-
+      A mineração de dados, portanto, é uma fase de preparação indispensável que equipa o projeto AssistenteSeguro FreioAntiColisão com o conhecimento e a capacidade de reconhecer e interpretar eficientemente as nuances visuais. Por meio desta etapa, estabelecemos uma base sólida para o treinamento do nosso modelo, garantindo que ele esteja bem-preparado para lidar com os desafios de detecção em cenários reais, reforçando assim a segurança veicular por meio da inovação tecnológica.
     <!-- Insira o conteúdo da seção "02 - ENTENDIMENTO DO PROBLEMA" aqui -->
   </details>
-A mineração de dados, portanto, é uma fase de preparação indispensável que equipa o projeto AssistenteSeguro FreioAntiColisão com o conhecimento e a capacidade de reconhecer e interpretar eficientemente as nuances visuais. Por meio desta etapa, estabelecemos uma base sólida para o treinamento do nosso modelo, garantindo que ele esteja bem-preparado para lidar com os desafios de detecção em cenários reais, reforçando assim a segurança veicular por meio da inovação tecnológica.
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
