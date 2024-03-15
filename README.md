@@ -13,7 +13,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <summary><h2>🚗 DEMONSTRAÇÃO</h2></summary>
     
   <p align="center">
-    <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e" alt="output" width="300">
+    <img src="https://github.com/IM-NOT-AI/CP-Automobilistic-ComputerVision-BinaryDetection-SelfDriven-Security/assets/113378671/3423ca03-691a-459f-a18f-772a95c1597e" alt="output" width="500">
   </p>
 
   <p>
@@ -31,13 +31,13 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 <details>
   <summary><h2>📘 UTILIZAÇÃO</h2></summary>
   <p align="center">
-    <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944" alt="pipeline-root" width="500" />
+    <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2e975e4-44f2-48d3-b5f6-0b7dcfb61944" alt="pipeline-root" width="750" />
   </p>
   <br>
   <details>
     <summary><h3>01 - ENTENDIMENTO DO PROBLEMA</h3></summary>
     <p align="center">
-      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/1bee522f-4cec-424c-a663-d3d0714b3df2" alt="fusca_foto_ic" width="500">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/1bee522f-4cec-424c-a663-d3d0714b3df2" alt="fusca_foto_ic" width="250">
     </p>
     O primeiro passo em direção ao desenvolvimento do projeto AssistenteSeguro FreioAntiColisão é o entendimento profundo do problema a ser resolvido. Este processo inicial é vital para a formulação de objetivos claros e a identificação das necessidades de dados, tecnologia e stakeholders envolvidos. A seguir, detalhamos os componentes essenciais desta fase: 
     <br><br>
