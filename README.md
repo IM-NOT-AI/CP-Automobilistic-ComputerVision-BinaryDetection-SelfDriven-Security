@@ -85,7 +85,7 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 
 A fase de entendimento do problema estabelece, assim, uma sólida fundação para o projeto AssistenteSeguro FreioAntiColisão, direcionando as etapas subsequentes com um planejamento estratégico e metas claras, visando a maximização da segurança veicular através da inovação em detecção baseada em IA.
 
-<details>
+  <details>
     <summary><h3>02 - ENTENDIMENTO DO PROBLEMA</h3></summary>
   </details>
     
