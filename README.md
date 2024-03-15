@@ -82,6 +82,9 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <!-- Início da seção "02 - MINERAÇÃO DE DADOS" -->
   <details>
     <summary><h3>02 - MINERAÇÃO DE DADOS</h3></summary>
+    <p align="center">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/f2a46085-ceef-46e6-aa71-81ca3923698e" alt="fusca_foto_ic" width="250">
+    </p>
     O processo de mineração de dados no projeto AssistenteSeguro FreioAntiColisão é uma etapa crucial para compreender e extrair informações valiosas a partir dos dados coletados. Ao explorar profundamente os dados disponíveis, buscamos identificar padrões, relações e características que serão fundamentais para o treinamento eficaz do nosso sistema de detecção. A seguir, detalhamos os componentes essenciais desta fase:
     <br><br>
     <details>
