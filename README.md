@@ -215,13 +215,21 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 </details>
  <br>
 <!-- Início da seção "06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)" -->
-<details>
-  <summary><h3>06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)</h3></summary>
-  <br><br>
-  <br>
-<!-- Início da seção "07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)" -->
-<details>
-  <summary><h3>07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)</h3></summary>
-  <br><br>
-</details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
+<!-- Início da seção "06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)" -->
+  <details>
+    <summary><h3>06 - AVALIAÇÃO E OTIMIZAÇÃO - (SOON)</h3></summary>
+    <br><br>
+    <!-- Conteúdo de "06 - AVALIAÇÃO E OTIMIZAÇÃO" aqui -->
+  </details> <!-- Fechamento correto da seção "06 - AVALIAÇÃO E OTIMIZAÇÃO" -->
 
+  <br> <!-- Espaçamento opcional entre as seções -->
+  
+  <!-- Início da seção "07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)" -->
+  <details>
+    <summary><h3>07 - IMPLEMENTAÇÃO E MONITORAMENTO - (SOON)</h3></summary>
+    <br><br>
+    <!-- Conteúdo de "07 - IMPLEMENTAÇÃO E MONITORAMENTO" aqui -->
+  </details> <!-- Correto: Esta tag fecha "07 - IMPLEMENTAÇÃO E MONITORAMENTO" -->
+
+<!-- A tag de fechamento de "📘 UTILIZAÇÃO" deve vir aqui, depois de todas as seções internas estarem fechadas -->
+</details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
