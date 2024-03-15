@@ -109,6 +109,9 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
   <!-- Início da seção "03 - PRÉ-PROCESSAMENTO DE DADOS" -->
   <details>
   <summary><h3>03 - PRÉ-PROCESSAMENTO DE DADOS</h3></summary>
+    <p align="center">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/995f23d8-e452-474a-b1a0-17394f9427f3" alt="fusca_foto_ic" width="250">
+    </p>
   A fase de pré-processamento é fundamental na preparação dos dados de imagem brutos para treinamento eficaz do modelo, envolvendo diversas etapas críticas:
   <br><br>
   <details>
@@ -147,6 +150,9 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 <!-- Início da seção "04 - ANOTAÇÃO DE DADOS" -->
 <details>
   <summary><h3>04 - ANOTAÇÃO DE DADOS</h3></summary>
+    <p align="center">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/997938c6-1806-4eb7-83d9-1b1190464e2e" alt="fusca_foto_ic" width="250">
+    </p>
   A anotação de dados é um processo crucial no projeto AssistenteSeguro FreioAntiColisão, assegurando que o modelo compreenda precisamente o contexto e conteúdo de cada imagem. Esta etapa envolve várias tarefas meticulosas:
   <br><br>
   <details>
@@ -170,6 +176,9 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
 <!-- Início da seção "05 - TREINAMENTO DO MODELO" -->
 <details>
   <summary><h3>05 - TREINAMENTO DO MODELO</h3></summary>
+    <p align="center">
+      <img src="https://github.com/IM-NOT-AI/IM-NOT-AI/assets/113378671/8bcc218c-112b-4a08-ae62-455e6db9b44f" alt="fusca_foto_ic" width="250">
+    </p>
   O treinamento do modelo é um marco decisivo no desenvolvimento do projeto AssistenteSeguro FreioAntiColisão, onde as preparações meticulosas e os insights coletados nas fases anteriores são postos em prática. Este estágio transforma dados brutos e teorias em uma ferramenta pronta para salvar vidas, através da precisão e eficiência na detecção de possíveis colisões. Detalhamos abaixo os processos essenciais que compõem esta fase crítica:
   <br><br>
   <details>
