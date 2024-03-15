@@ -102,28 +102,40 @@ Este repositório aborda a transformação de um Fusca dos anos 90 em veículo a
     <br>
   <!-- Início da seção "03 - PRÉ-PROCESSAMENTO DE DADOS" -->
   <details>
-    <summary><h3>03 - PRÉ-PROCESSAMENTO DE DADOS</h3></summary>
-    A fase de pré-processamento é fundamental na preparação dos dados de imagem brutos para treinamento eficaz do modelo, envolvendo diversas etapas críticas:
-    <br><br>
-    <b>Redimensionamento</b><br>
+  <summary><h3>03 - PRÉ-PROCESSAMENTO DE DADOS</h3></summary>
+  A fase de pré-processamento é fundamental na preparação dos dados de imagem brutos para treinamento eficaz do modelo, envolvendo diversas etapas críticas:
+  <br><br>
+  <details>
+    <summary>📄 Redimensionamento</summary>
     As imagens são redimensionadas para dimensões uniformes para garantir consistência no tamanho dos dados de entrada para o modelo. Esta uniformidade é crucial para o processamento eficiente e aprendizado da rede neural a partir do conjunto de dados. No projeto, imagens dos diretórios "Murilo_Original_Bruto" e "Outros_Sintetico_Bruto" são redimensionadas para uma resolução padrão, facilitando o processamento e análise eficazes.
-    <br><br>
-    <b>Aumento</b><br>
-    Para melhorar a robustez do modelo contra o overfitting e aumentar sua capacidade de generalização, técnicas de aumento de dados são aplicadas. Isso inclui rotacionar, espelhar e escalar imagens para introduzir uma maior variedade de variabilidade de dados. A fase "S4_Argumentacao_Renomeamento" dentro do pipeline Murilo exemplifica isso, onde imagens são aumentadas para criar amostras adicionais de treinamento.
-    <br><br>
-    <b>Espelhamento</b><br>
-    Como parte do aumento de dados, imagens são espelhadas horizontal ou verticalmente para simular diferentes perspectivas e ângulos, aumentando a diversidade do conjunto de dados de treinamento.
-    <br><br>
-    <b>Deformação</b><br>
-    As imagens podem ser ligeiramente deformadas para simular diferentes ângulos de câmera e perspectivas, introduzindo mais variabilidade no conjunto de dados sem a necessidade de coletar novos dados.
-    <br><br>
-    <b>Limpeza</b><br>
-    O conjunto de dados é meticulosamente limpo para remover quaisquer dados irrelevantes ou enganosos que possam impactar negativamente o processo de aprendizado do modelo. Este passo envolve filtrar imagens que não contribuem para a compreensão do modelo de "Murilo" e "Outros", assegurando a qualidade e relevância do conjunto de dados.
-    <br><br>
-    <b>Seleção</b><br>
-    Um processo seletivo é utilizado para escolher as imagens mais representativas e diversas para o conjunto de treinamento, garantindo um conjunto de dados abrangente que encapsula uma ampla gama de cenários em que "Murilo" e "Outros" podem aparecer.
-    <br><br>
-    A fase de pré-processamento é meticulosamente projetada para otimizar o conjunto de dados para a fase subsequente de treinamento, garantindo que o modelo seja exposto a dados de alta qualidade e variados que encapsulem a complexidade dos cenários do mundo real com os quais se deparará.
   </details>
+  <br>
+  <details>
+    <summary>📄 Aumento</summary>
+    Para melhorar a robustez do modelo contra o overfitting e aumentar sua capacidade de generalização, técnicas de aumento de dados são aplicadas. Isso inclui rotacionar, espelhar e escalar imagens para introduzir uma maior variedade de variabilidade de dados. A fase "S4_Argumentacao_Renomeamento" dentro do pipeline Murilo exemplifica isso, onde imagens são aumentadas para criar amostras adicionais de treinamento.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Espelhamento</summary>
+    Como parte do aumento de dados, imagens são espelhadas horizontal ou verticalmente para simular diferentes perspectivas e ângulos, aumentando a diversidade do conjunto de dados de treinamento.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Deformação</summary>
+    As imagens podem ser ligeiramente deformadas para simular diferentes ângulos de câmera e perspectivas, introduzindo mais variabilidade no conjunto de dados sem a necessidade de coletar novos dados.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Limpeza</summary>
+    O conjunto de dados é meticulosamente limpo para remover quaisquer dados irrelevantes ou enganosos que possam impactar negativamente o processo de aprendizado do modelo. Este passo envolve filtrar imagens que não contribuem para a compreensão do modelo de "Murilo" e "Outros", assegurando a qualidade e relevância do conjunto de dados.
+  </details>
+  <br>
+  <details>
+    <summary>📄 Seleção</summary>
+    Um processo seletivo é utilizado para escolher as imagens mais representativas e diversas para o conjunto de treinamento, garantindo um conjunto de dados abrangente que encapsula uma ampla gama de cenários em que "Murilo" e "Outros" podem aparecer.
+  </details>
+  <br>
+  A fase de pré-processamento é meticulosamente projetada para otimizar o conjunto de dados para a fase subsequente de treinamento, garantindo que o modelo seja exposto a dados de alta qualidade e variados que encapsulem a complexidade dos cenários do mundo real com os quais se deparará.
+</details>
 </details> <!-- Fechamento da seção "📘 UTILIZAÇÃO" -->
 
